@@ -1,6 +1,6 @@
 ### Hi, I'm Zhiyuan (River) Lu 👋
 
-I'm an M.S. student in Electrical Engineering at Columbia University and a graduate research assistant, working on **eBPF-based runtime verification and worst-case execution time (WCET) analysis** for real-time systems. Previously, I did undergraduate research on **electronic design automation** at CUHK-Shenzhen — FPGA DSP placement and PCB physical design.
+I'm an M.S. student in Electrical Engineering at Columbia University and a graduate research assistant, working on **eBPF-based runtime verification** for real-time systems. Previously, I did undergraduate research on **electronic design automation** at CUHK-Shenzhen — FPGA DSP placement and PCB physical design.
 
 **Research interests:** runtime verification & program analysis · systems for machine learning · design automation
 
