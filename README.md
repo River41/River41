@@ -13,4 +13,4 @@ I'm an M.S. student in Electrical Engineering at Columbia University and a gradu
 
 ### 📫 Contact
 
-[zl3604@columbia.edu](mailto:zl3604@columbia.edu) · [LinkedIn](https://www.linkedin.com/in/zhiyuan-river-lu) · [GitHub](https://github.com/River41)
+zl3604 [at] columbia.edu · [LinkedIn](https://www.linkedin.com/in/zhiyuan-river-lu) · [GitHub](https://github.com/River41)
